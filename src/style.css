@@ -1,0 +1,29 @@
+body{
+    background-image: url(Images/fight-club.jpg);
+    background-repeat: no-repeat;
+    background-size: 1920px;
+    background-color: rgb(246, 64, 63);
+}
+
+.cim{
+    margin-left: 170px;
+}
+.kep{
+    float: left;
+    margin-right: 10px;
+}
+.Story{
+    color: white;
+    margin: 20px;
+    margin-bottom: 50px;
+}
+.cucc{
+    color: white;
+}
+
+.szoveg{
+    color: white;
+}
+.space{
+    margin: 900px;
+}
